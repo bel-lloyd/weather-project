@@ -9,4 +9,4 @@ Containing files for the weather project.
 
 - Tests running successfully screenshot
     - OK from all test!
-    <img src="" alt="tests-ok-screenshot"/>
+    <img src="screenshots/tests-ok.png" alt="tests-ok-screenshot"/>
